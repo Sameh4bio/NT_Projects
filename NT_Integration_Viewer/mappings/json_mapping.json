@@ -1,0 +1,9 @@
+{
+  "patient.firstName": {
+    "label": "First Name",
+    "description": "Patient's first name",
+    "dbColumn": "first_name",
+    "table": "Patient",
+    "validation": "required"
+  }
+}

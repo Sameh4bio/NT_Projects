@@ -1,0 +1,8 @@
+node_modules/
+publish/
+NT_Integration_Viewer/NT_Integration_Viewer.Api/bin/
+NT_Integration_Viewer/NT_Integration_Viewer.Api/obj/
+NT_Integration_Viewer/NT_Integration_Viewer.Web/node_modules/
+
+NT_Integration_Viewer/NT_Integration_Viewer.Web/dist/
+NT_Integration_Viewer/publish/
