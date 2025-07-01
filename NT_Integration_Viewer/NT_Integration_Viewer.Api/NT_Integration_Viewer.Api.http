@@ -1,0 +1,6 @@
+@NT_Integration_Viewer.Api_HostAddress = http://localhost:5293
+
+GET {{NT_Integration_Viewer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

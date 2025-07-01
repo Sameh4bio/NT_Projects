@@ -1,0 +1,9 @@
+{
+  "Patient.name[0].given[0]": {
+    "label": "First Name",
+    "description": "Patient's first name",
+    "dbColumn": "first_name",
+    "table": "Patient",
+    "validation": "required"
+  }
+}
